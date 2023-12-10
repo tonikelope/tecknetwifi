@@ -11,5 +11,3 @@ The purpose of this project is to implement the function of receiving notificati
 - NodeMCU ESP8266 (or any Arduino with wifi)
 - Photodiode
 - Resistor 50KOhms
-
-![Alt text](images/esp8266.jpg?raw=true)
