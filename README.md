@@ -11,3 +11,6 @@ The purpose of this project is to implement the function of receiving notificati
 - NodeMCU ESP8266 (or any Arduino with wifi)
 - Photodiode
 - Resistor 50KOhms
+
+## How it works
+The principle of operation is very simple. It is to monitor one of the leds of the receiver using a photodiode and in case of detecting the activation of the LED a message is sent by wifi to the server.
