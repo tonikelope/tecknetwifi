@@ -1,7 +1,7 @@
 # tecknetwifi
 ## Arduino WiFi Notifier for Tecknet Doorbell
 
-The purpose of this project is to implement the function of receiving notifications from the doorbell receiver on our PC or SmartPhone in case we are far away from the monitor, or to help people with reduced hearing.
+The purpose of this project is to implement the function of receiving notifications from the doorbell receiver on our PC or SmartPhone in case we are far away from the receiver, or to help people with reduced hearing.
 
 ![Alt text](images/tecknet.jpg?raw=true)
 ![Alt text](images/tecknet1.jpg?raw=true)
