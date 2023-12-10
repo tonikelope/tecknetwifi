@@ -8,7 +8,7 @@ The purpose of this project is to implement the function of receiving notificati
 ![Alt text](images/tecknet2.jpg?raw=true)
 
 ## Materials:
-- NodeMCU Lolin (v3) ESP8266 (or any Arduino with wifi)
+- NodeMCU ESP8266 (or any Arduino with wifi)
 - Photodiode
 - Resistor 50KOhms
 
