@@ -13,4 +13,4 @@ The purpose of this project is to implement the function of receiving notificati
 - Resistor 50KOhms
 
 ## How it works
-The principle of operation is very simple. It consists of monitoring one of the leds of the receiver using a photodiode and in case of detecting the activation of the LED a message is sent by wifi to the server.
+The principle of operation is very simple. It consists of monitoring one of the blue leds of the receiver using a photodiode and in case of detecting the activation of the LED a message is sent by wifi to the server. The advantage of this system is that no soldering is required on the receiver board.
