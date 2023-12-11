@@ -10,7 +10,7 @@ The purpose of this project is to implement the function of receiving notificati
 ## Materials:
 - NodeMCU ESP8266 (or any Arduino with wifi)
 - Photodiode
-- Resistor 50KOhms
+- Resistor 50 KOhms
 
 ## How it works
 The principle of operation is very simple. It consists of monitoring one of the blue leds of the Tecknet receiver using a photodiode and in case of detecting the activation of the LED a message is sent by wifi to the server. The advantage of this system is that no soldering is required on the receiver board and it's compatible with any doorbell with visual alert (the majority).
